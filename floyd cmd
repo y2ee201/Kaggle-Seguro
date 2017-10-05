@@ -1,0 +1,1 @@
+floyd run --cpu --data y2ee201/datasets/seguro/1:/data "python Init.py"
